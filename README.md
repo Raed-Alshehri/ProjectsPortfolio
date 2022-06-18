@@ -4,7 +4,7 @@
 👀 I’m interested in data science, machine learning, and statistics.
 
 
-🌱 I’m currently learning how to apply data analytics using Python and R
+🌱 I’m applying my skills in the data analytics field using Python, R, and SQL
 
 
 📫 You can contact me via Linkedin using the link: https://www.linkedin.com/in/raedalshehri/
