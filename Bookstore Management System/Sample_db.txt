@@ -1,0 +1,75 @@
+02-7816-45;Tammy's Red Horse;Quincey T. Reid;Children, Stories;2006;$7.00
+04-4672-67;Little Miss Muffet;Millard B. Thomas;Children, Fables;2001;$7.00
+04-7821-72;Small Engine Repair;Lacy J. Jones;Auto, Repair;2006;$22.00
+07-8816-29;Basement Waterproofing;Clancey D. Smith;Home, Remodeling, Repair;2008;$14.45
+12-2121-12;The Valley Campaign;Karen King;History, Civil War;2009;$14.50
+12-1678-00;Psychology Today;Robert Yancey;Psychology;2000;$23.00
+12-6662-30;Taxes for Singles;Miles H. Jenson;Tax, Preparation, Income;2013;$12.00
+25-0000-12;ADA;Tammy U. Young;Computers, Programming;2008;$23.00
+27-3399-92;Early American Homes;Samuel K. Benson;Home, Remodeling, Repair;2007;$19.95
+44-6655-77;Buying Your First Computer;Gale Smithers;Computers;2009;$14.00
+54-4433-11;Kings and Queens;Francis Battle;History, Europe;2005;$24.00
+55-2020-11;Early Williamsburg;Susan Smithfield;History, American;2001;$22.00
+55-2567-11;Bill's Back Yard;Karen King;Children, Stories;2006;$11.00
+55-3891-20;The Backyard Mechanic;Jason D. Burch;Auto, Repair;2007;$15.90
+56-1670-10;Earning Extra Income;Oliver H. Kline;Income, Salary, Wages;2006;$27.75
+56-7891-61;COBOL For The Millennium;Phillip L. Gay;Computers, Programming;2008;$21.25
+66-0000-22;Yorktown;Hank I. Omer;History, American;2008;$14.00
+66-0125-77;D-Day, Looking Back;Thomas D. Kline;American, World War II;2007;$12.00
+66-1111-22;Meyer's Tax Guide;Phillip C. Meyer;Tax, Preparation, Income;2009;$14.00
+73-3333-29;Southern Kitchens;Wilson H. Blult;Home, Remodeling, Repair;2007;$15.40
+77-1156-82;The Book of ABCs;Karen King;Children, Stories;2009;$8.30
+77-2456-29;Aesop's Fables;Alice Denton;Children, Fables;2006;$20.00
+77-2599-66;Adolph Hitler;Lacy Hanks;History, World War II;2009;$24.00
+77-2670-11;Microelectronics;Henry Wampler;Electronics, Electricity;2004;$26.35
+77-2789-12;Custom Cars;William S. Smith;Auto;2007;$19.00
+77-2890-44;Animals;Gale H. Britt;Children, Stories;2013;$9.00
+77-3399-81;Lotus for Accountants;Betty D. Meyers;Computers, Spreadsheets;2014;$11.00
+77-3789-31;Up and Over;Joan K. Trainer;Children, Stories;2009;$11.00
+77-4523-33;Wesley's Tree House;Terri B. Smith;Children, Stories;2009;$8.10
+77-4561-33;Raising Your Child;U.H. Dillard;Children, Psychology;2006;$24.00
+77-6520-04;Patios;Thomas D. Wheeler;Home, Remodeling, Repair;2003;$11.00
+78-2901-78;Weber's Tax Guide;Arthur C. Weber;Tax, Preparation, Income;2014;$16.25
+81-2690-45;Numbers and Things;Ursula Y. King;Children, Stories;2007;$5.95
+87-0001-85;Personal BASIC;Zin Y. Yong;Computers, Programming;2004;$19.00
+87-2220-20;Up, Down, Over, and Under;Tina Hanks;Children, Stories;2007;$6.00
+88-2671-10;Goldilocks;Larry H. King;Children, Fables;2008;$9.50
+88-2856-15;Taxes for Teachers;Carl H. Itty;Tax, Income;2009;$11.00
+88-3762-01;Database Design;David A. Donaldson;Database Management;2009;$27.00
+88-3838-04;Valley Forge;Kimberly F. Casey;History, American;2008;$14.35
+88-7070-23;Swamp Fox;Landon King;History, Civil War;2007;$16.40
+90-1712-00;Tax Shelters for 2014;Peter G. Seguin;Tax, Income;2014;$19.00
+90-1816-16;Webster's Collegiate Dic;;Dictionary;2010;$24.00
+90-2266-11;The Blue Book;Tammy L. Smith;Automobile Prices;1999;$477.00
+90-3678-81;California Gold Rush;Lewis F. Fitzgerald;History, American;2007;$15.20
+90-4446-71;Computing for User's;Daniel D. Chance;Computers, Programming;2012;$185.00
+91-1234-67;The Tortoise and The Hare;Aesop;Children, Fables;1994;$9.00
+94-5671-33;Under 150;Gale King;Diets;2007;$10.25
+94-8912-12;Friendly Pascal;Lindsey B. Gram;Computers, Programming;2007;$21.00
+99-2671-44;Modern Baths;Karen G. Francis;Home, Repair, Remodeling;2007;$14.00
+9780307278623;Baseball Codes: Beanballs, Sign Stealing, and Bench-Clearing Brawls: The Unwritten Rules of America's Pastime, The;Turbow, Jason;Sports;2011;$15.95
+9780692013144;Prescription for Wealth: Why You Should And Can Be Rich;McFie, Dr. Tomas;Economics;2011;$10.00
+9780615458991;"Your Economic Destiny: Golden Rules of Financial Freedom the ""experts"" hope you will never understand or follow";Mendenhall, Jeff;Economics;2011;$28.95
+9781449362188;Head First Android Development: A Brain-Friendly Guide;Griffiths, Dawn;Computers, Programming;2015;$49.99
+9781565922624;Java in a Nutshell;Flanagan, David;Computers, Programming;1997;$24.95
+9780060541712;Begging for Change: The Dollars and Sense of Making Nonprofits Responsive, Efficient, and Rewarding for All;Egger, Robert;Economics;2004;$24.99
+9780553345834;What They Don't Teach You at Harvard Business School: Notes from a Street-smart Executive;McCormack, Mark H.;Economics;1986;$18.00
+9780596004101;DNS & Bind Cookbook;Liu, Cricket;Culinary;2002;$39.99
+9781565925281;Apache: The Definitive Guide: Vital Information for Apache Programmers and Administrators;Laurie, Ben;Computers, Programming;1999;$34.95
+9781565925120;DNS and BIND;Albitz, Paul;Computers, Programming;1998;$39.95
+9780471254843;Managing Ip Addresses: How To Number Your Network For Growth And Change;Dutcher, Bill;Computers, Programming;2000;$60.00
+9781594744143;Stuff Every Man Should Know;Cohen, Brett;Self-help;2009;$9.95
+9780671619381;Wealth Without Risk;Givens, Charles J.;Economics;1988;$21.95
+9780553089448;It Doesn't Take A Hero: The Autobiography;Schwarzkopf, Norman;Autobiography;1992;$300.00
+9780672335419;Sams Teach Yourself SQL in 24 Hours;Stephens, Ryan K.;Computers, Programming;2011;$34.99
+9780671685188;Buffalo Girls;McMurtry, Larry;Novel;1990;$19.95
+9781846815973;Irish Heritage Cookbook: Classic Dishes From The Emeral Isle: The History, Traditions And Ingredients, With Over 150 Step By Step Recipes, The;Lennon, Biddy White;Culinary;2005;$22.95
+9780770436230;Fast Metabolism Diet Cookbook: Eat Even More Food and Lose Even More Weight, The;Pomroy, Haylie;Culinary;2013;$26.99
+9780307986276;Fast Metabolism Diet: Lose 20 Pounds in 4 Weeks and Keep It Off Forever by Unleashing Your Body's Natural Fat-Burning Power, The;Pomroy, Haylie;Diets;2013;$26.00
+9780442219826;New Professional Chef, The;Conway, Linda Glick;Culinary;1991;$49.95
+517553155;RIBS: Over 80 all-American and international recipes for ribs and fixings;Friedland, Susan R.;Culinary;1988;$6.95
+891452060;Modern Guns;Quertermous, Steve;Trade catalogue;1982;$17.99
+688099726;Mayo Clinic Heart Book;McGoon, Michael D.;Health;1993;$26.00
+312059914;Atlas Of Man;Gaisford, John;Social Sciences;1978;$25.00
+688144780;Mayo Clinic Family Health Book;Litin, Scott C.;Health;1996;$45.00
+9780316106580;Love from the Heart of the Home: A Keepsake Book;Branch, Susan;Culinary;1994;$11.95
