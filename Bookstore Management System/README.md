@@ -53,6 +53,9 @@ program to open and starts a loop that doesn’t stop until the user chooses so.
 print my name.
 ```
 
+## 🛠 Skills Used
+Python: expressions, decision structures, looping, functions, lists, files and exceptions.
+
 
 ## 🚀 About Me
 👋 Hi, I’m @Raed-Alshehri
