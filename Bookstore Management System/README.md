@@ -1,13 +1,9 @@
-Raed Alshehri: Bookstore Management System
 
-Project description:
-This project is a bookstore management system, which allows the bookstore to keep track of the
-inventory, sell books, add/remove/modify books, and search for books.
-The main idea of the projects is to convert the given text file into a list, then execute the orders
-on the list, and finally overwrite the same file with the ending list. Also, each book will be given
-a number that is not recorded in the text file to make operating on the books easier.
+# Bookstore Management System
 
-The functions and their description:
+ The bookstore management system allows the bookstore to keep track of the inventory, sell books, add/remove/modify books, and search for books. The main idea of the projects is to convert the given text file into a list, then execute the orders on the list, and finally overwrite the same file with the ending list. Also, each book will be given a number that is not recorded in the text file for easier operation on the books.
+ 
+ ## The Functions and Description:
 
 ```
  readFile(inFile): this function takes the name of the text file and open it, then convert it
@@ -56,3 +52,24 @@ is less or equal to the number of books, then prints the book with this number.
 program to open and starts a loop that doesn’t stop until the user chooses so. Then, it will
 print my name.
 ```
+
+
+## 🚀 About Me
+👋 Hi, I’m @Raed-Alshehri
+
+👀 I’m interested in data science, machine learning, and statistics.
+
+🌱 I’m applying my skills in the data analytics field using Python, R, and SQL
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raed-alshehri.github.io/RaedAlshehri.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raedalshehri/)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at alshehri.raeda@gmail.com
+
+
+
