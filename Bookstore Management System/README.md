@@ -3,7 +3,7 @@
 
  The bookstore management system allows the bookstore to keep track of the inventory, sell books, add/remove/modify books, and search for books. The main idea of the projects is to convert the given text file into a list, then execute the orders on the list, and finally overwrite the same file with the ending list. Also, each book will be given a number that is not recorded in the text file for easier operation on the books.
  
- ## The Functions and Description:
+ ## Functions and Description:
 
 ```
  readFile(inFile): this function takes the name of the text file and open it, then convert it
