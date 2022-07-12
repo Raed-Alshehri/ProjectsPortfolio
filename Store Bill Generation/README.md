@@ -3,7 +3,7 @@
 
  This project is a program written in Python and it is required to do the following:
 
-- generate a bill for some store: The store owner provides two text files as an input. The program first reads the input file named
+- Generate a bill for some store: The store owner provides two text files as an input. The program first reads the input file named
 “items.txt” which contains a list of all items in the store with their unit-prices. 
 
 - The program stores the items in in one list called itemList: according to their order given in the items.txt
