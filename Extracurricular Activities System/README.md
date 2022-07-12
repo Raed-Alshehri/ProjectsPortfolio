@@ -83,7 +83,9 @@ check it out [here](https://alshehriraeda.wixsite.com/extracurricular)
 - Finally, the database was Implemented using SQL for easier querying and manipulation [here](https://github.com/Raed-Alshehri/ProjectsPortfolio/blob/main/Extracurricular%20Activities%20System/Extracurricular%20Activities%20Database.sql)
 
 ## 🛠 Skills Used
-Python: expressions, decision structures, looping, functions, lists, files and exceptions.
+Systems Analysis and Development, Project Management
+
+SQL: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 ## 🚀 About Me
 👋 Hi, I’m @Raed-Alshehri
 
