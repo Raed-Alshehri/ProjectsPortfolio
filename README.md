@@ -7,4 +7,4 @@
 🌱 I’m applying my skills in the data analytics field using Python, R, and SQL
 
 
-📫 You can contact me via Linkedin using the link: [a link](https://www.linkedin.com/in/raedalshehri/)
+📫 You can contact me via Linkedin: [@RaedAlshehri](https://www.linkedin.com/in/raedalshehri/)
